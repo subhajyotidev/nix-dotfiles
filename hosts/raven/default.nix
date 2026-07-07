@@ -58,7 +58,7 @@
 
   # Miscellaneous stuff.
   common-settings.enable = true;
-  common-settings.flake = "/home/raven/nix-config";
+  common-settings.flake = "/home/raven/dotfiles";
   common-settings.gc.options = "--delete-older-than 3d";
   trusted-substituters.enable = true;
   security.enable = true;

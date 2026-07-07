@@ -83,6 +83,6 @@
     ./fzf.nix
     ./atuin.nix
     ./niri.nix
-    ./librewolf.nix
+    # ./librewolf.nix
   ];
 }
